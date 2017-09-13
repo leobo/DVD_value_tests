@@ -1,0 +1,6 @@
+#!/home/yang/PycharmProjects/DVD_value_tests/DVD_value_testsVisualEnv/bin/python
+if __name__ == '__main__':
+    import sys
+    import pip
+
+    sys.exit(pip.main())

@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/home/yang/PycharmProjects/DVD_value_tests/DVD_value_testsVisualEnv
+exec_prefix=/home/yang/PycharmProjects/DVD_value_tests/DVD_value_testsVisualEnv
+libdir=/home/yang/PycharmProjects/DVD_value_tests/DVD_value_testsVisualEnv/lib
+includedir=/home/yang/PycharmProjects/DVD_value_tests/DVD_value_testsVisualEnv/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: http://tukaani.org/xz/
+Version: 5.2.3
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private: -pthread -lrt  

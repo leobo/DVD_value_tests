@@ -1,0 +1,14 @@
+==> 2017-09-13 11:17:48 <==
+# cmd: /home/yang/anaconda3/bin/conda create -p /home/yang/PycharmProjects/DVD_value_tests/DVD_value_testsVisualEnv -y python=3.6
++defaults::certifi-2016.2.28-py36_0
++defaults::openssl-1.0.2l-0
++defaults::pip-9.0.1-py36_1
++defaults::python-3.6.2-0
++defaults::readline-6.2-2
++defaults::setuptools-36.4.0-py36_0
++defaults::sqlite-3.13.0-0
++defaults::tk-8.5.18-0
++defaults::wheel-0.29.0-py36_0
++defaults::xz-5.2.3-0
++defaults::zlib-1.2.11-0
+# create specs: python 3.6*
